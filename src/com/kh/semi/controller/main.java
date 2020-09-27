@@ -2,7 +2,7 @@ package com.kh.semi.controller;
 
 public class main {
 	public void main(){
-		System.out.println("½ÇÇàÁß");
-		System.out.println("¾÷µ¥ÀÌÆ®Áß");
+		System.out.println("í•œê¸€ê¹¨ì§");
+		System.out.println("ì•„ë‹ˆë˜ìš”");
 	}
 }
